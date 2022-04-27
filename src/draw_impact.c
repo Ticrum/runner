@@ -13,7 +13,6 @@
 void  e89_draw_impact(t_map *map, t_bunny_pixelarray *px, t_bunny_accurate_position  start, double angle)
 {
   t_bunny_accurate_position pos;
-  //t_bunny_position posi;
   t_bunny_position start2[2];
   t_bunny_color color;
 
